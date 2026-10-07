@@ -14,7 +14,7 @@ A provider-aware workflow for choosing models for a concrete task. It compares c
 
 Provide a task or workload and any known constraints, such as usage volume, latency, deployment region, data handling, or budget. If you do not specify a priority, the Skill presents selectable options when the interface supports them and accepts a custom text response; balanced is the default. If use volume is unknown, it compares unit prices rather than inventing a monthly estimate.
 
-This Skill chooses among models for a task. Use [模型测评](../model-evaluation/README.md) when you want to test and profile a particular model.
+This Skill chooses among models for a task. Use [模型测评](https://github.com/Freya-Qian/model-evaluation) when you want to test and profile a particular model.
 
 ## Contents
 
